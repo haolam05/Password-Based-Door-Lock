@@ -1,0 +1,9 @@
+Jan 26 2023:
+Create project
+
+Feb 1 2023:
+Create read_input() function to read button and ras pi inputs
+
+Changed param in RCC_AHB1PeriphClockCmd to GPIOD
+
+Fixed switch-case in Door_FSM()
